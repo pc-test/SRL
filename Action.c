@@ -8,6 +8,7 @@ Action()
 	// Added first comment.
 	// Added second comment.	
 	// Added third comment.	
+	// Added fourth comment.
 
 	lr_end_transaction("Homepage", LR_AUTO);
 
