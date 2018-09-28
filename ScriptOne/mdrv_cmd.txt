@@ -1,0 +1,1 @@
+-usr "C:\Users\anders\Desktop\SRL\TestScript.usr" -compile_only -out "C:\Users\anders\Desktop\SRL\" -drv_log_file "C:\Users\anders\Desktop\SRL\mdrv.log" -cfg "C:\Users\anders\Desktop\SRL\default.cfg" -product_name vugen

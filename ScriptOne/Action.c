@@ -9,9 +9,7 @@ Action()
 	// Added second comment.	
 	// Added third comment.	
 	// Added fourth comment.
-	// Added fifth comment.
-	// Added sixth comment.
-	
+
 	lr_end_transaction("Homepage", LR_AUTO);
 
 	return 0;

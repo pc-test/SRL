@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\anders\Desktop\SRL
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\anders\desktop\srl\\logfile.log
+c:\users\anders\desktop\srl\\combined_TestScript.c
+c:\users\anders\desktop\srl\\pre_cci.c
